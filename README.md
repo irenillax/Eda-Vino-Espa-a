@@ -28,6 +28,7 @@ Por último, en cuanto a la verificación de suposiciones encontramos que:
 - Las bodegas con más reseñas tienden a tener mejores notas. Esto no está confirmado, ya que no se observó relación directa entre volumen de reseñas y calificación media.
 - Las regiones más reconocidas presentas precios más altos. Confirmada. Regiones como Ribera del Duero y Priorat concentran vinos premium con precios superiores.
 
+NOTA: El proyecto contenía slicers los cuales adjunto en formato PDF para que se pueda comprobar que sí que estaban además de su correcto funcionamiento. Pero al exportar el archivo a .xlxs, no se han conservado.
 
 Autores: 
 Irene Anguita. 
